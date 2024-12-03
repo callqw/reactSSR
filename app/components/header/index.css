@@ -1,0 +1,7 @@
+.header {
+    position: absolute;
+    width: 100%;
+    line-height: 72px;
+    height: 72px;
+    background-color: white;
+}
